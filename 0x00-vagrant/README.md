@@ -47,7 +47,7 @@ Add the Ubuntu 20.04 (Focal) image to your box list:
 * C:\Users\julien> vagrant ssh -> now you are inside your virtual machine. 
 
 
-## *Mac OSx*
+## [*Mac OSx*](https://www.microsoft.com/en-us/windows)
 
 Download VirtualBox
 Install VirtualBox
