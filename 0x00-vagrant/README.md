@@ -5,7 +5,7 @@ This is my first repository as a full-stack engineer
 ![vagrant](https://user-images.githubusercontent.com/85587286/160299036-eeab9bb0-8a3b-4cc7-b386-a1af05742327.png)
 
 
-## **Ubuntu**
+## *Ubuntu*
 
 
 * Install VirtualBox: $ sudo apt-get install virtualbox
@@ -22,7 +22,7 @@ This is my first repository as a full-stack engineer
 * $ vagrant ssh -> now you are inside your virtual machine.
 
 
-## **Windows**
+## *Windows*
 
 
 Download VirtualBox
@@ -47,7 +47,7 @@ Add the Ubuntu 20.04 (Focal) image to your box list:
 * C:\Users\julien> vagrant ssh -> now you are inside your virtual machine. 
 
 
-## **Mac OSx**
+## *Mac OSx*
 
 Download VirtualBox
 Install VirtualBox
