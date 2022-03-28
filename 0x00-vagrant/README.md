@@ -7,6 +7,7 @@ This is my first repository as a full-stack engineer
 
 ## [Ubuntu](https://ubuntu.com/)
 
+~~~~
 
 * Install [VirtualBox:](https://www.oracle.com/lad/virtualization/solutions/try-oracle-vm-virtualbox/?source=:ad:pas:go:dg:a_lad:71700000086320342-58700007355811342-p65908949551:RC_WWMK201210P00015C0001:SPA&SC=:ad:pas:go:dg:a_lad::RC_WWMK201210P00015C0001:SPA:&gclid=CjwKCAjwloCSBhAeEiwA3hVo_Um9fVGLSzIwDrD4QXODkE3Oe1RkkHNg2-PcOfBil1Api50aSedy7RoCjxMQAvD_BwE&gclsrc=aw.ds) $ sudo apt-get install virtualbox
 
@@ -19,7 +20,7 @@ This is my first repository as a full-stack engineer
 
 * $ vagrant up -> it will start your virtual machine
 * $ vagrant ssh -> now you are inside your virtual machine.
-
+~~~~
 
 ## [*Windows*](https://www.microsoft.com/en-us/windows)
 
@@ -30,7 +31,6 @@ Download Vagrant
 Install Vagrant
 Open the command prompt
 Add the Ubuntu 20.04 (Focal) image to your box list:
-~~~~
 
 * C:\Users\quinto> vagrant box add ubuntu/focal64  
 
@@ -45,10 +45,11 @@ Add the Ubuntu 20.04 (Focal) image to your box list:
 * C:\Users\quinto> vagrant up -> it will start your virtual machine 
 
 * C:\Users\quinto> vagrant ssh -> now you are inside your virtual machine. 
-
+~~~~
 
 ## [*Mac OSx*](https://support.apple.com/macos)
 
+~~~~
 Download VirtualBox
 Install VirtualBox
 Download Vagrant
@@ -63,4 +64,4 @@ Create your first virtual machine:
 
 * $ vagrant up -> it will start your virtual machine 
 * $ vagrant ssh -> now you are inside your virtual machine. 
-
+~~~~
