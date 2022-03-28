@@ -12,15 +12,12 @@ This is my first repository as a full-stack engineer
 
 * Install [Vagrant:](https://www.vagrantup.com/downloads) $ sudo apt-get install vagrant
 
-~~~~
-
 * Add the Ubuntu 20.04 (Focal) image to your box list: $ vagrant box add ubuntu/focal64  Warning: this step can take time
 
 * $ vagrant init ubuntu/focal64 -> it will generate a Vagrantfile with base = "ubuntu/focal64" - you don’t have to execute this command line everyday, only once, to create a new virtual machine
 
 * $ vagrant up -> it will start your virtual machine
 * $ vagrant ssh -> now you are inside your virtual machine.
-~~~~
 
 ## [*Windows*](https://www.microsoft.com/en-us/windows)
 
@@ -31,9 +28,9 @@ Download Vagrant
 Install Vagrant
 Open the command prompt
 Add the Ubuntu 20.04 (Focal) image to your box list:
+~~~~
 
 * C:\Users\quinto> vagrant box add ubuntu/focal64  
-
 
 * C:\Users\quinto> vagrant init ubuntu/focal64
 
@@ -45,7 +42,6 @@ Add the Ubuntu 20.04 (Focal) image to your box list:
 * C:\Users\quinto> vagrant up -> it will start your virtual machine 
 
 * C:\Users\quinto> vagrant ssh -> now you are inside your virtual machine. 
-~~~~
 
 ## [*Mac OSx*](https://support.apple.com/macos)
 
@@ -59,9 +55,8 @@ Now you will execute command line in your Terminal (each of them start with $)
 Add the Ubuntu 20.04 (Focal) image to your box list: $ vagrant box add ubuntu/focal64 Warning: this step can take time
 Many other images are available here
 Create your first virtual machine:
-
+~~~~
 * $ vagrant init ubuntu/focal64 -> it will generate a Vagrantfile with base = "ubuntu/focal64" - you don’t have to execute this command line everyday, only once, to create a new virtual machine
 
 * $ vagrant up -> it will start your virtual machine 
 * $ vagrant ssh -> now you are inside your virtual machine. 
-~~~~
