@@ -7,8 +7,6 @@ This is my first repository as a full-stack engineer
 
 ## [Ubuntu](https://ubuntu.com/)
 
-[![ubuntu logo](https://user-images.githubusercontent.com/85587286/160329465-74e58f0a-90ee-44a3-98a0-5cf1d33a587e.png)]
-
 ~~~~
 * Install [VirtualBox:](https://www.oracle.com/lad/virtualization/solutions/try-oracle-vm-virtualbox/?source=:ad:pas:go:dg:a_lad:71700000086320342-58700007355811342-p65908949551:RC_WWMK201210P00015C0001:SPA&SC=:ad:pas:go:dg:a_lad::RC_WWMK201210P00015C0001:SPA:&gclid=CjwKCAjwloCSBhAeEiwA3hVo_Um9fVGLSzIwDrD4QXODkE3Oe1RkkHNg2-PcOfBil1Api50aSedy7RoCjxMQAvD_BwE&gclsrc=aw.ds) $ sudo apt-get install virtualbox
 
