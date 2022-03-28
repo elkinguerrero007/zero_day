@@ -6,9 +6,6 @@ This is my first repository as a full-stack engineer
 
 
 ## [Ubuntu](https://ubuntu.com/)
-![ubuntu logo](/https://user-images.githubusercontent.com/85587286/160327867-f6e107e9-f9f7-4480-901a-ca168a4b882c.png)
-
-
 
 
 * Install [VirtualBox:](https://www.oracle.com/lad/virtualization/solutions/try-oracle-vm-virtualbox/?source=:ad:pas:go:dg:a_lad:71700000086320342-58700007355811342-p65908949551:RC_WWMK201210P00015C0001:SPA&SC=:ad:pas:go:dg:a_lad::RC_WWMK201210P00015C0001:SPA:&gclid=CjwKCAjwloCSBhAeEiwA3hVo_Um9fVGLSzIwDrD4QXODkE3Oe1RkkHNg2-PcOfBil1Api50aSedy7RoCjxMQAvD_BwE&gclsrc=aw.ds) $ sudo apt-get install virtualbox
@@ -26,13 +23,14 @@ This is my first repository as a full-stack engineer
 
 ## [*Windows*](https://www.microsoft.com/en-us/windows)
 
-
+~~~~
 Download VirtualBox
 Install VirtualBox
 Download Vagrant
 Install Vagrant
 Open the command prompt
 Add the Ubuntu 20.04 (Focal) image to your box list:
+~~~~
 
 * C:\Users\quinto> vagrant box add ubuntu/focal64  
 
