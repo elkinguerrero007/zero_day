@@ -18,4 +18,3 @@
 
 * https://learngitbranching.js.org/?locale=es_ES
 
-* up_to_date
