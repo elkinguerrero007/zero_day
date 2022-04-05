@@ -12,11 +12,13 @@
 
 * $ sudo apt-get install git
 
-* https://docs.github.com/en/get-started/quickstart/set-up-git
+* [Set up git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 
-* https://wordpress.com/support/markdown-quick-reference/
+* [Markdow](https://wordpress.com/support/markdown-quick-reference/)
 
-* https://learngitbranching.js.org/?locale=es_ES
+*[Markdow_2](https://dillinger.io/)
+
+* [learnGitBranches](https://learngitbranching.js.org/?locale=es_ES)
 
 *finally*
 
