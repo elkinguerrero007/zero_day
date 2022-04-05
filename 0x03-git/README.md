@@ -12,7 +12,7 @@
 >> 
 >> * `$ sudo apt-get install git`
 >> 
->> * [Set up git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+>> * [Set your username in git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 >> 
 >> * [Markdow](https://wordpress.com/support/markdown-quick-reference/)
 >> 
